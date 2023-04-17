@@ -1,0 +1,22 @@
+.list {
+    list-style-type: square;
+    border: 3px dotted red;
+    /* border-radius: 20px 0 20px 0; */
+    border-radius: 10px;
+    border-top-right-radius: 55pt;
+}
+
+.list2 {
+    list-style-type: none;
+    list-style-image: url("../image/箭頭2.jpg");
+}
+
+.in {
+    list-style-position: inside;
+    background-color: orange;
+}
+
+.out {
+    list-style-position: outside;
+    background-color: orange;
+}

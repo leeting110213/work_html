@@ -1,0 +1,43 @@
+h2.a1 {
+    color: red;
+    font-weight: bolder;
+}
+
+.a2 {
+    color: blue;
+    font-style: italic;
+}
+
+.col1 {
+    color: yellow;
+}
+
+.col2 {
+    color: orange;
+}
+
+.tr1 {
+    text-transform: lowercase;
+}
+
+.sty1 {
+    font-style: italic;
+}
+
+#col_2 {
+    color: orange;
+}
+
+h1 {
+    color: red;
+}
+
+.col_1 {
+    color: blue;
+}
+
+p {
+    color: gray;
+    text-decoration: underline;
+    font-style: italic;
+}

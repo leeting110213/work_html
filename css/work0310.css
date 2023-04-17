@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: antiquewhite;
+}
+
+div {
+  box-sizing: border-box;
+  width: 50%;
+  border: 6px outset #4a6c6f;
+  padding: 10px;
+  margin: 5px auto;
+  border-radius: 15px;
+}
+
+.台灣黑熊 {
+  border: 3px solid green;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 246px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+  font-size: 4em;
+  color: #72705b;
+}
+
+p {
+  margin: 10px 0px;
+  text-indent: 2em;
+  font-family: 標楷體;
+}
+
+.白鼻心 {
+  border: 3px solid green;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 286px;
+  float: right;
+  margin-right: 5px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.石虎 {
+  border: 3px solid green;
+  padding: 10px;
+  box-sizing: border-box;
+  width: 246px;
+  float: left;
+  margin-right: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
+.col_1 {
+  background-color: #f6fff8;
+}
+.col_2 {
+  background-color: #eaf4f4;
+}
+.col_3 {
+  background-color: #cce3de;
+}
+.col_4 {
+  background-color: white;
+}
